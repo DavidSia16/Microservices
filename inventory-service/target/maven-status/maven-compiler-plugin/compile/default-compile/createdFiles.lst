@@ -1,5 +1,0 @@
-daviddev\inventoryservice\model\Inventory.class
-daviddev\inventoryservice\repository\InventoryRepository.class
-daviddev\inventoryservice\controller\InventoryController.class
-daviddev\inventoryservice\InventoryserviceApplication.class
-daviddev\inventoryservice\service\InventoryService.class
