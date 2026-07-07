@@ -1,4 +1,4 @@
-package daviddev.product_service.controller;
+gipackage daviddev.product_service.controller;
 
 import daviddev.product_service.controller.dto.ProductRequest;
 import daviddev.product_service.controller.dto.ProductResponse;
